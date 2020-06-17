@@ -4,14 +4,14 @@
 
 本投影片大部分來自台大電機系教授李宏毅老師的youtube影片，特此聲明。講義內容如下：
 
-00 - NLP介紹.pptx
-01 - NLP Tasks介紹.pptx
-02 - Word Embeddings.pptx
-03 - 神經網路語言模型(optional).pptx
-04 - RNN & LSTM.pptx
-05 - Seq2Seq.pptx
-06 - Transformers.pptx
-07 - Elmo, Bert and family.pptx
+* 00 - NLP介紹.pptx
+* 01 - NLP Tasks介紹.pptx
+* 02 - Word Embeddings.pptx
+* 03 - 神經網路語言模型(optional).pptx
+* 04 - RNN & LSTM.pptx
+* 05 - Seq2Seq.pptx
+* 06 - Transformers.pptx
+* 07 - Elmo, Bert and family.pptx
 
 ## 程式碼說明
 
