@@ -33,7 +33,7 @@
 ## 聯絡方式
 
 如果有任何問題，請寫信給我
-胡嘉璽 joshhu.usa@gmail.com
+joshhu.usa@gmail.com
 
 ## 同學問題
 
